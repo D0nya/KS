@@ -1,4 +1,2 @@
 ﻿  Client.cpp
-d:\stud\ks\lab01\client\client\client.cpp(34): warning C4101: 'sendline': unreferenced local variable
-d:\stud\ks\lab01\client\client\client.cpp(34): warning C4101: 'sb': unreferenced local variable
   Client.vcxproj -> D:\Stud\ks\lab01\Client\Debug\Client.exe
